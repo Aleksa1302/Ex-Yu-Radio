@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:0, RADIO BEOGRAD 1
-http://rts.ipradio.rs:8002/
-
+https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8
 #EXTINF:0, RADIO BEOGRAD 2
 http://rts.ipradio.rs:8004/
 
