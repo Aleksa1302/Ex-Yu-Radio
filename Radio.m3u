@@ -153,7 +153,146 @@ http://91.121.52.62:8102/
 http://212.117.164.99:8018/
 #EXTINF:0, RADIO CAR
 http://stream1.contrateam.com:6036/
-
+# BiG
+#EXTINF:0,BiG1
+http://big1.bigportal.ba:8100/big1
+#EXTINF:0,BiG2
+http://big2.bigportal.ba:8100/big2
+#EXTINF:0,BiG3
+http://big3.bigportal.ba:8100/big3
+#EXTINF:0,BiG4
+http://domacica.bigportal.ba:8100/domacica
+#EXTINF:0,BiG House
+http://188.124.211.103:8100/house
+#EXTINF:0,BiG Lounge Cafee
+http://188.124.211.103:8100/lounge
+#EXTINF:0,BiG Folk
+http://big-folk.bigportal.ba:8100/folk
+# Ritam Soundset
+#EXTINF:0,Soundset Visoko
+http://50.7.77.114:8057/
+#EXTINF:0,Soundset Zenica
+http://50.7.77.114:8059/
+#EXTINF:0,Soundset Banja Luka
+http://50.7.77.114:8061/
+#EXTINF:0,Soundset Sarajevo
+http://50.7.77.114:8063/
+#EXTINF:0,Soundset Mostar
+http://50.7.77.114:8065/
+# Radio M
+#EXTINF:0,Radio M Cafee
+http://206.190.135.28:8037/
+#EXTINF:0,Radio M Prvi
+http://195.222.33.217:8026/
+#EXTINF:0,Radio M Drugi
+http://mobile.ba:23500/
+#EXTINF:0,Radio M Folk
+http://206.190.135.28:8092/
+# TDI
+#EXTINF:0,TDI
+http://streaming.tdiradio.com:8000/tdiradio
+#EXTINF:0,TDI HQ
+http://streaming.tdiradio.com:8000/tdiradio96
+#EXTINF:0,TDI Alltime
+http://streaming.tdiradio.com:8000/alltime
+#EXTINF:0,TDI Chillout
+http://streaming.tdiradio.com:8000/chillout
+#EXTINF:0,TDI Classics
+http://streaming.tdiradio.com:8000/classics
+#EXTINF:0,TDI Crna Gora
+http://streaming.tdiradio.com:8000/crnagora
+#EXTINF:0,TDI DJ Akademija
+http://streaming.tdiradio.com:8000/djakademija
+#EXTINF:0,TDI Domaćica
+http://streaming.tdiradio.com:8000/domacica
+#EXTINF:0,TDI EDM
+http://streaming.tdiradio.com:8000/edm
+#EXTINF:0,TDI House
+http://streaming.tdiradio.com:8000/house
+#EXTINF:0,TDI Love
+http://streaming.tdiradio.com:8000/love
+#EXTINF:0,TDI RnB
+http://streaming.tdiradio.com:8000/rnb
+#EXTINF:0,TDI Starogradska
+http://streaming.tdiradio.com:8000/starogradska
+#EXTINF:0,TDI Top 40
+http://streaming.tdiradio.com:8000/top40
+#EXTINF:0,TDI Euro Dance
+http://streaming.tdiradio.com:8000/eurodance
+#EXTINF:0,TDI Yu Dance
+http://streaming.tdiradio.com:8000/yudance
+#EXTINF:0,TDI Kids
+http://streaming.tdiradio.com:8000/kids
+# Naxi
+#EXTINF:0,Naxi Cafe
+http://naxidigital-cafe128.streaming.rs:8020/;stream.nsv
+#EXTINF:0,Naxi Rock
+http://naxidigital-rock128.streaming.rs:8180/;stream.nsv
+#EXTINF:0,Naxi Love
+http://naxidigital-love128.streaming.rs:8100/;stream.nsv
+#EXTINF:0,Naxi Classic
+http://naxidigital128.kbcnet.rs:8030/;stream.nsv
+#EXTINF:0,Naxi Dance
+http://naxidigital-dance128.streaming.rs:8110/;stream.nsv
+#EXTINF:0,Naxi House
+http://naxidigital128.kbcnet.rs:8000/;stream.nsv
+#EXTINF:0,Naxi Clubbing
+http://naxidigital128.kbcnet.rs:8090/;stream.nsv
+#EXTINF:0,Naxi 80-e
+http://naxidigital-80s128.streaming.rs:8040/;stream.nsv
+#EXTINF:0,Naxi Evergreen
+http://naxidigital-evergreen128.streaming.rs:8010/;stream.nsv
+#EXTINF:0,Naxi Boem
+http://109.206.96.18:8050/;stream.nsv
+#EXTINF:0,Naxi Kids
+http://naxidigital128.kbcnet.rs:8050/;stream.nsv
+# B92/Play
+#EXTINF:0,B92
+http://stream.b92.net:7999/radio-b92.mp3
+#EXTINF:0,Play
+http://stream.playradio.rs:8001/play.mp3
+# Radio 101 Zagreb
+#EXTINF:0,Radio 101 Zagreb
+http://live.radio101.hr:7038/;stream.nsv
+#EXTINF:0,Radio 101 Rock Zagreb
+http://live.radio101.hr:7005/;stream.nsv
+# Radio Antena
+#EXTINF:0,Radio Antena Zagreb
+http://173.192.137.34:8050/;stream.nsv
+# Otvoreni
+#EXTINF:0,Otvoreni
+http://87.98.250.149:8002/;stream.nsv
+# Nes Radio
+#EXTINF:0,Nes
+http://mobile.ba:16500/
+#EXTINF:0,Nes Castra
+http://mobile.ba:17000/
+# Ostalo
+#EXTINF:0,Radio AS
+http://radioas.kbcnet.rs:8045/;stream.nsv
+#EXTINF:0,Urban City radio
+http://cp2.striming.info:8216/;stream.nsv
+#EXTINF:0,Uno (1)
+http://zvukofon.blic.net:8002/live
+#EXTINF:0,Uno (2)
+http://stream.btgport.net:8008/unoradiobl.com
+#EXTINF:0,Uno (3)
+http://stream.bitlab.rs:8008/unoradiobl.com
+#EXTINF:0,Kontakt radio
+http://stream.mojkontakt.com:8092/kontaktradio
+#EXTINF:0,Balkan radio
+http://176.9.59.144:8038/balkanbl
+#EXTINF:0,Radio Srbac
+http://91.121.195.222:4858/;stream.nsv
+#EXTINF:0,YU pop-rock
+http://listen.radionomy.com/yugopoprock
+# Classical
+#EXTINF:0,WGUC Classical
+http://cpr2.streamguys.net/wguc
+#EXTINF:0,KFMA Classical
+http://pubint.ic.llnwd.net/stream/pubint_kmfa
+#EXTINF:0,WCPE Classical
+http://audio-ogg.ibiblio.org:8000/wcpe.ogg
 
 #EXTINF:0, USCE SHOPING RADIO
 http://109.206.96.18:8000/
