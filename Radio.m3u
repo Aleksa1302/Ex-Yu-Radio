@@ -2,44 +2,29 @@
 #EXTINF:0, RADIO BEOGRAD 1
 https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8
 #EXTINF:0, RADIO BEOGRAD 2
-http://rts.ipradio.rs:8004/
-
+https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8
+#EXTINF:0, RADIO BEOGRAD 3
+https://rtsradio-live.morescreens.com/RTS_2_003/playlist.m3u8
 #EXTINF:0, RADIO 202
-http://rts.ipradio.rs:8006/
-
+https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8
 #EXTINF:0, RADIO B92
 http://stream.b92.net:7999/radio-b92.mp3
-
 #EXTINF:0, RADIO STUDIO B
 http://radio.studiob.rs:8004/
-
-#EXTINF:0, RADIO TRI
-mms://195.178.44.140/radiotri1
-
-#EXTINF:0, RADIO PINGVIN
-http://62.75.235.34:8090/
-
+#EXTINF:0, RADIO PINGVIN 
+https://uzivo.radiopingvin.com/domaci1
+#EXTINF:0, RADIO PINGVIN Strani
+https://uzivo.radiopingvin.com/strani1
 #EXTINF:0, BUM BUM RADIO
-http://radio.bumbumradio.rs:8010/
-
+http://bumbum-stream.netlogic.rs:8000/
 #EXTINF:0, RADIO NOVOSTI
 http://www.radionovosti.rs:443/radionovosti56s.mp3
-
 #EXTINF:0, NOVI SAD 1
-http://82.117.194.13:9020/
-
-#EXTINF:0, NOVI SAD 2
-http://82.117.194.13:9010/
-
-#EXTINF:0, NOVI SAD 3
-http://82.117.194.13:9030/
-
+http://79.101.121.123:1935/rns1/prviprogram/livestream/playlist.m3u8
 #EXTINF:0, TOP FM
 http://109.206.96.11:8000/
-
 #EXTINF:0, RADIO TDI
-http://streaming.tdiradio.com:9000/
-
+https://streaming.tdiradio.com/tdiradio.mp3
 
 #EXTINF:0, RADIO S
 http://sh1.beotel.net:8002/
