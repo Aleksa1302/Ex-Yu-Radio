@@ -173,40 +173,7 @@ http://mobile.ba:23500/
 #EXTINF:0,Radio M Folk
 http://206.190.135.28:8092/
 # TDI
-#EXTINF:0,TDI
-http://streaming.tdiradio.com:8000/tdiradio
-#EXTINF:0,TDI HQ
-http://streaming.tdiradio.com:8000/tdiradio96
-#EXTINF:0,TDI Alltime
-http://streaming.tdiradio.com:8000/alltime
-#EXTINF:0,TDI Chillout
-http://streaming.tdiradio.com:8000/chillout
-#EXTINF:0,TDI Classics
-http://streaming.tdiradio.com:8000/classics
-#EXTINF:0,TDI Crna Gora
-http://streaming.tdiradio.com:8000/crnagora
-#EXTINF:0,TDI DJ Akademija
-http://streaming.tdiradio.com:8000/djakademija
-#EXTINF:0,TDI Domaćica
-http://streaming.tdiradio.com:8000/domacica
-#EXTINF:0,TDI EDM
-http://streaming.tdiradio.com:8000/edm
-#EXTINF:0,TDI House
-http://streaming.tdiradio.com:8000/house
-#EXTINF:0,TDI Love
-http://streaming.tdiradio.com:8000/love
-#EXTINF:0,TDI RnB
-http://streaming.tdiradio.com:8000/rnb
-#EXTINF:0,TDI Starogradska
-http://streaming.tdiradio.com:8000/starogradska
-#EXTINF:0,TDI Top 40
-http://streaming.tdiradio.com:8000/top40
-#EXTINF:0,TDI Euro Dance
-http://streaming.tdiradio.com:8000/eurodance
-#EXTINF:0,TDI Yu Dance
-http://streaming.tdiradio.com:8000/yudance
-#EXTINF:0,TDI Kids
-http://streaming.tdiradio.com:8000/kids
+
 # Naxi
 #EXTINF:0,Naxi Cafe
 http://naxidigital-cafe128.streaming.rs:8020/;stream.nsv
