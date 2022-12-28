@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" tvg-name="THe Wave" tvg-logo="https://raw.githubusercontent.com/Aleksa1302/Ex-Yu-Radio/main/Wave%20Logo%20(125%20%C3%97%20125%20px).gif" group-title="Serbia",The Wave
-https://radio.eyecay.xyz:8000/radio.mp3
-#EXTINF:0 tvg-id="" tvg-name="RADIO BEOGRAD 1" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/5/11825.v6.png" group-title="Serbia",RADIO BEOGRAD 1
-https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8
+
 #EXTINF:0, RADIO BEOGRAD 2
 https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8
 #EXTINF:0, RADIO BEOGRAD 3
