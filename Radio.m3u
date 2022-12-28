@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:0, RADIO BEOGRAD 1
+https://rtsradio-live.morescreens.com/RTS_1_001/playlist.m3u8
 #EXTINF:0, RADIO BEOGRAD 2
 https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8
 #EXTINF:0, RADIO BEOGRAD 3
@@ -16,12 +17,14 @@ https://uzivo.radiopingvin.com/domaci1
 https://uzivo.radiopingvin.com/strani1
 #EXTINF:0, BUM BUM RADIO
 http://bumbum-stream.netlogic.rs:8000/
+#EXTINF:0, NOSTALGIJA
+https://nostalgie128ssl.streaming.rs:9252/;stream.mp3
 #EXTINF:0, RADIO NOVOSTI
 http://www.radionovosti.rs:443/radionovosti56s.mp3
 #EXTINF:0, NOVI SAD 1
 http://79.101.121.123:1935/rns1/prviprogram/livestream/playlist.m3u8
 #EXTINF:0, TOP FM
-http://109.206.96.11:8000/
+https://topfm128ssl.streaming.rs:9282/;stream.mp3
 #EXTINF:0, RADIO TDI
 https://streaming.tdiradio.com/tdiradio.mp3
 #EXTINF:0, RADIO S
@@ -29,7 +32,7 @@ http://sh1.beotel.net:8002/
 #EXTINF:0, MFM RADIO
 http://195.252.107.194:8012/
 #EXTINF:0, NOSTALGIJA
-http://87.98.217.82:7080/
+https://nostalgie128ssl.streaming.rs:9252/;stream.mp3
 #EXTINF:0, LUDA KUCA
 http://94.23.224.182:6010/
 #EXTINF:0, RADIO BRAVO
