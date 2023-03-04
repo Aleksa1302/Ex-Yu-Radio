@@ -1,12 +1,11 @@
 {
-  "name": "app name",
-  "short_name": "short name",
+  "name": "Wave Radio",
+  "short_name": "wave",
   "theme_color": "#fff",
   "background_color": "#fff",
-  "display": "fullScreen",
-  "orientation": "",
+  "display": "standalone",
   "scope": "/",
-  "start_url": "https://links.eyecay.ky/radio",
+  "start_url": "https://links.eyecay.ky/radio"
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
